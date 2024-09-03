@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+  }
+  
+  .sidebar {
+    width: 20%;
+    background-color: #f4f4f4;
+    padding: 1rem;
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    margin-bottom: 1rem;
+    cursor: pointer;
+    color: #0070f3;
+  }
+  
+  .main {
+    width: 80%;
+    padding: 2rem;
+  }
+  

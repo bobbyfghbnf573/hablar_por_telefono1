@@ -1,0 +1,49 @@
+.container {
+    padding: 0 2rem;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0;
+    background-color: #333;
+    color: white;
+  }
+  
+  .header nav a {
+    margin-right: 1rem;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .main {
+    padding: 2rem 0;
+  }
+  
+  .carousel, .features, .testimonials, .beforeAfter {
+    margin-bottom: 2rem;
+  }
+  
+  .feature {
+    background-color: #f0f0f0;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .loginButton {
+    background-color: #0070f3;
+    color: white;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .footer {
+    text-align: center;
+    padding: 2rem 0;
+    background-color: #333;
+    color: white;
+    margin-top: 2rem;
+  }
+  
